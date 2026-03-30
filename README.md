@@ -1,38 +1,137 @@
-# Project Title
+<!-- ========================================= -->
 
-A brief description of your project goes here.
+<!-- SARTHAK SHARMA - GITHUB PROFILE -->
 
-## Badges
+<!-- ========================================= -->
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
-![License](https://img.shields.io/badge/license-MIT-blue)  
+<div align="center">
 
-## Overview
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
-This is a sample README file that contains an overview of the project.
+<br><br>
 
-## Installation
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sarthak+Sharma+👋;AI+%2F+ML+Engineer;Python+Developer;Deep+Learning+Explorer;Building+Intelligent+Systems" />
 
-You can install the project using the following command:
+<br>
 
-```bash
-pip install your_project
-```
+<img src="https://komarev.com/ghpvc/?username=Sarthak752008&style=for-the-badge&color=blue" />
 
-## Usage
+</div>
 
-Here is how you can use the project:
+---
 
-```python
-import your_project
+# 👨‍💻 About Me
 
-your_project.do_something()
-```
+🎓 B.Tech CSE (AI & ML) student at **KIET Group of Institutions**
+🤖 Interested in **Artificial Intelligence & Machine Learning**
+📊 Experience with **Deep Learning and Data Analytics**
+🧠 Solved **500+ DSA problems**
+🚀 Building projects with **real-world datasets**
 
-## Contributing
+---
 
-We welcome contributions to this project! Please fork the repository and submit a pull request.
+# 🛠 Tech Stack
 
-## License
+### Programming
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### AI / ML
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge)
+
+### Frameworks
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge\&logo=opencv)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthak752008&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak752008&layout=compact&theme=tokyonight" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sarthak752008&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 Projects
+
+### E-Waste Image Classification
+
+Deep learning classifier using **EfficientNetV2B0**
+Achieved **91% accuracy**
+
+### AI Financial Risk Assessment
+
+ML models for **credit score & loan default prediction**
+
+### E-Commerce Sales Dashboard
+
+Interactive **Power BI analytics dashboard**
+
+---
+
+# 🏆 Achievements
+
+🏅 Reliance Foundation Scholar 2024
+🏅 AWS Certified Cloud Practitioner
+🏅 Winner – Top Hackathon & Epoque 2k25 (KIET)
+🏅 District Topper – Class 10 & 12
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sarthak752008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Sarthak752008">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22D3EE&center=true&width=700&lines=Thanks+for+visiting+my+profile;Let's+build+something+amazing+🚀" />
+
+</div>
