@@ -134,4 +134,4 @@ Interactive **Power BI analytics dashboard**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22D3EE&center=true&width=700&lines=Thanks+for+visiting+my+profile;Let's+build+something+amazing+🚀" />
 
-</div>.
+</div>
