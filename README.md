@@ -4,22 +4,6 @@
 
 <!-- ========================================= -->
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sarthak+Sharma+👋;AI+%2F+ML+Engineer;Python+Developer;Deep+Learning+Explorer;Building+Intelligent+Systems" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sarthak752008&style=for-the-badge&color=blue" />
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 🎓 B.Tech CSE (AI & ML) student at **KIET Group of Institutions**
