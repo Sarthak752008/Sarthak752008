@@ -77,14 +77,15 @@ Social Intern | Community outreach, 10K+ developers reached
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthak752008&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak752008&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthak752008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff&icon_color=1f6feb)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak752008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff)
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Sarthak752008&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Sarthak752008&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff)
 
 </div>
 
@@ -101,7 +102,7 @@ Social Intern | Community outreach, 10K+ developers reached
 
 ## 🐍 Contribution Activity
 
-![Snake](https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
