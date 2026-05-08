@@ -7,17 +7,11 @@
 # 👨‍💻 About Me
 
 🎓 **Highly motivated B.Tech CSE (AI & ML) undergraduate** at **KIET Group of Institutions** | **CGPA: 9.3/10**
-
 🤖 **Dual AWS Certified** – ML Engineer Associate & Cloud Practitioner
-
-🏗️ **Production-level ML and Full-Stack Projects** with real-world impact
-
+🏗️ **Production-level AI-ML and Full-Stack Projects** with real-world impact
 🏆 **Proven Leadership** – Hackathon wins, technical team lead roles, cross-functional internships
-
 📢 **Strong Communicator & Content Writer** – Blending engineering depth with business thinking
-
 🎯 **Expertise Areas:** Machine Learning, Data Analytics, Cloud Computing, Product Development
-
 💡 Eager to apply skills to create measurable value and drive innovation
 
 ---
