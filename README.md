@@ -6,11 +6,19 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) student at **KIET Group of Institutions**
-🤖 Interested in **Artificial Intelligence & Machine Learning**
-📊 Experience with **Deep Learning and Data Analytics**
-🧠 Solved **500+ DSA problems**
-🚀 Building projects with **real-world datasets**
+🎓 **Highly motivated B.Tech CSE (AI & ML) undergraduate** at **KIET Group of Institutions** | **CGPA: 9.3/10**
+
+🤖 **Dual AWS Certified** – ML Engineer Associate & Cloud Practitioner
+
+🏗️ **Production-level ML and Full-Stack Projects** with real-world impact
+
+🏆 **Proven Leadership** – Hackathon wins, technical team lead roles, cross-functional internships
+
+📢 **Strong Communicator & Content Writer** – Blending engineering depth with business thinking
+
+🎯 **Expertise Areas:** Machine Learning, Data Analytics, Cloud Computing, Product Development
+
+💡 Eager to apply skills to create measurable value and drive innovation
 
 ---
 
@@ -28,12 +36,17 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge)
 
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge)
+
 ### Frameworks
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge\&logo=opencv)
 
-### Tools
+### Tools & Analytics
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
@@ -81,10 +94,12 @@ Interactive **Power BI analytics dashboard**
 
 # 🏆 Achievements
 
+🏅 **Dual AWS Certified** – ML Engineer Associate & Cloud Practitioner
 🏅 Reliance Foundation Scholar 2024
-🏅 AWS Certified Cloud Practitioner
 🏅 Winner – Top Hackathon & Epoque 2k25 (KIET)
 🏅 District Topper – Class 10 & 12
+🏅 Technical Team Lead – Multiple Projects
+🏅 **CGPA: 9.3/10** – B.Tech CSE (AI & ML)
 
 ---
 
