@@ -28,11 +28,99 @@
 
 ## <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/> Tech Stack
 
-**Languages:** Python, C++, SQL, JavaScript  
-**ML/AI:** TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP  
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
-**Cloud:** AWS (EC2, S3, Lambda, SageMaker)  
-**Tools:** Git, GitHub, Jupyter, Streamlit, Docker  
+<h2 align="center">⚡ Tech Stack ⚡</h2>
+
+<table align="center">
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>AI / ML</strong></td>
+<td>
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-FF9800?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-673AB7?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-009688?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-8E24AA?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-3F51B5?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Frameworks & Libraries</strong></td>
+<td>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Cloud</strong></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-0277BD?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Data & BI</strong></td>
+<td>
+
+![EDA](https://img.shields.io/badge/EDA-1976D2?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8E24AA?style=for-the-badge)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-43A047?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Soft Skills</strong></td>
+<td>
+
+![Leadership](https://img.shields.io/badge/Leadership-1565C0?style=for-the-badge)
+![Public Speaking](https://img.shields.io/badge/Public%20Speaking-8E24AA?style=for-the-badge)
+![Content Writing](https://img.shields.io/badge/Content%20Writing-43A047?style=for-the-badge)
+![Poetry](https://img.shields.io/badge/Poetry%20%2F%20Recitation-E53935?style=for-the-badge)
+
+</td>
+</tr>
+
+</table>
 
 ---
 
