@@ -90,17 +90,6 @@ Social Intern | Community outreach, 10K+ developers reached
 
 ---
 
-## 📈 Coding Profiles
-
-| Platform | Profile |
-|:---:|:---|
-| **LeetCode** | 500+ Problems \| 2100+ Rating |
-| **HackerRank** | 5⭐ Python & SQL |
-| **CodeChef** | 4⭐ Specialist |
-| **Kaggle** | Active Contributor |
-
----
-
 ## 🌱 Currently Learning
 
 - 🔬 LLMs & Prompt Engineering
