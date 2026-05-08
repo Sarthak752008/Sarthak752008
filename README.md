@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img height="45" src="https://media.tenor.com/rPcqJExSaOcAAAAi/menhera-chibi.gif"/> 👨‍💻 About Me
 
 **AI/ML Engineer | Data Scientist | AWS Certified** | B.Tech CSE (AI & ML) @ KIET | **CGPA: 9.3/10**
 
