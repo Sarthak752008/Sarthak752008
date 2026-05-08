@@ -103,7 +103,7 @@ Social Intern | Community outreach, 10K+ developers reached
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake-dark.svg" />
 </p>
 ---
 
