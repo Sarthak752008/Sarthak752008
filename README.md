@@ -6,7 +6,7 @@
 
 ---
 
-## <img height="45" src="https://media.tenor.com/rPcqJExSaOcAAAAi/menhera-chibi.gif"/> 👨‍💻 About Me
+## <img height="45" src="https://media.tenor.com/rPcqJExSaOcAAAAi/menhera-chibi.gif"/> About Me
 
 **AI/ML Engineer | Data Scientist | AWS Certified** | B.Tech CSE (AI & ML) @ KIET | **CGPA: 9.3/10**
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/> Tech Stack
 
 **Languages:** Python, C++, SQL, JavaScript  
 **ML/AI:** TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP  
@@ -36,7 +36,7 @@
 
 ---
 
-## 📌 Featured Projects
+##<img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Featured Projects
 
 | Project | Tech | Highlights |
 |:---|:---|:---|
