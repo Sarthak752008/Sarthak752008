@@ -5,15 +5,6 @@
 </div>
 
 ---
-<p align="center">
-  <a href="https://github.com/SarthakSharma">
-    <img 
-      alt="Hello! I'm Sarthak Sharma" 
-      src="https://github.com/krsatyam7/krsatyam7/assets/110342305/d6d340a9-7f9b-413e-aecf-fdcb93bf1ae3"
-      width="100%"
-    />
-  </a>
-</p>
 
 ## <img height="45" src="https://media.tenor.com/rPcqJExSaOcAAAAi/menhera-chibi.gif"/> About Me
 
@@ -119,6 +110,7 @@ Social Intern | Community outreach, 10K+ developers reached
 
 ![Footer](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=2000&color=00D9FF&center=true&width=700&lines=Thanks+for+visiting+🚀;Let's+build+something+amazing;Connect+on+LinkedIn)
 
-**Made with ❤️ by Sarthak Sharma** | Last Updated: May 2026
+<p align="center">
+<img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
 
 </div>
