@@ -5,6 +5,15 @@
 </div>
 
 ---
+<p align="center">
+  <a href="https://github.com/SarthakSharma">
+    <img 
+      alt="Hello! I'm Sarthak Sharma" 
+      src="https://github.com/krsatyam7/krsatyam7/assets/110342305/d6d340a9-7f9b-413e-aecf-fdcb93bf1ae3"
+      width="100%"
+    />
+  </a>
+</p>
 
 ## <img height="45" src="https://media.tenor.com/rPcqJExSaOcAAAAi/menhera-chibi.gif"/> About Me
 
@@ -36,7 +45,7 @@
 
 ---
 
-##<img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Featured Projects
+## <img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Featured Projects
 
 | Project | Tech | Highlights |
 |:---|:---|:---|
