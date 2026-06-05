@@ -183,7 +183,7 @@ Social Intern | Community outreach, 10K+ developers reached
 
 - 🔬 LLMs & Prompt Engineering
 - 🎯 Retrieval-Augmented Generation (RAG)
-- ⚡ GPU Optimization & CUDA
+- ⚡ DSA
 - 📡 Advanced AWS Services
 
 ---
