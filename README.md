@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=3000&pause=500&color=00D9FF&center=true&width=800&lines=🚀+AI%2FML+%26+Data+Scientist;📊+Building+Intelligent+Systems;⚡+Transforming+Ideas+Into+AI)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=3000&pause=500&color=00D9FF&center=true&width=800&lines=🚀+AI%2FML+%26+Data+Scientist;📊+Building+Intelligent+Systems;☁️+AWS+Certified;🧠+Machine+Learning+Engineer)
 
 </div>
 
@@ -169,11 +169,7 @@ Social Intern | Community outreach, 10K+ developers reached
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak752008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff)
 
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=Sarthak752008&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak752008&theme=tokyonight&hide_border=true&background=0d1117&fire=00d9ff&ring=00d9ff&currStreakLabel=58a6ff)
 
 </div>
 
@@ -191,8 +187,13 @@ Social Intern | Community outreach, 10K+ developers reached
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake-dark.svg?v=20261120">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake.svg?v=20261120">
+    <img alt="Sarthak's contribution snake" src="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake.svg?v=20261120">
+  </picture>
 </p>
+
 ---
 
 <div align="center">
