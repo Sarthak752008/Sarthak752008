@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=3000&pause=500&color=00D9FF&center=true&width=800&lines=🚀+AI%2FML+%26+Data+Scientist;📊+Building+Intelligent+Systems;☁️+AWS+Certified;🧠+Machine+Learning+Engineer)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=3000&pause=500&color=00D9FF&center=true&width=800&lines=🚀+AI%2FML+%26+Data+Scientist;📊+Building+Intelligent+Systems;☁️+AWS+Certified+Engineer)
 
 </div>
 
@@ -47,7 +47,7 @@
 <td>
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-FF9800?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-FF9800?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-673AB7?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-009688?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/GenAI-8E24AA?style=for-the-badge)
@@ -165,11 +165,11 @@ Social Intern | Community outreach, 10K+ developers reached
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthak752008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff&icon_color=1f6feb)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthak752008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff&icon_color=1f6feb&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak752008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak752008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak752008&theme=tokyonight&hide_border=true&background=0d1117&fire=00d9ff&ring=00d9ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak752008&theme=tokyonight&hide_border=true&background=0d1117&fire=00d9ff&ring=00d9ff&currStreakLabel=58a6ff&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -188,9 +188,9 @@ Social Intern | Community outreach, 10K+ developers reached
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake-dark.svg?v=20261120">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake.svg?v=20261120">
-    <img alt="Sarthak's contribution snake" src="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake.svg?v=20261120">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake.svg">
+    <img alt="Sarthak's contribution snake" src="https://raw.githubusercontent.com/Sarthak752008/Sarthak752008/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
